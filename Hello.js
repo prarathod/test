@@ -7,3 +7,4 @@ const MyNameFinder = (str) =>{
 
 console.log(MyNameFinder("prajwal"));
 
+
